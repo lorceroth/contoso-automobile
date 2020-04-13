@@ -1,12 +1,3 @@
-# Contoso Automobile
+# Contoso Automobile 🚘
 
-Det här repot innehåller referensprojekt för undervisning av C#. Projekten är olika varianter av ett CLI-baserat
-program för hantering av ett bilregister.
-
-## Simple
-
-TODO
-
-## Advanced
-
-TODO
+This repo contains some reference projects used for teaching C#. The projects are different implementations of a CLI-based car registry program.

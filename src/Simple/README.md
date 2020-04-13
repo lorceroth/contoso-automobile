@@ -1,3 +1,0 @@
-# Contoso Automobile - Simple
-
-TODO
